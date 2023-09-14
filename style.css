@@ -55,3 +55,17 @@ p{
 footer{
     background-color: white;
 }
+@media screen and (max-width: 768px) {
+    /* Define styles for smaller screens here */
+    body {
+        font-size: 1em; /* Example: adjust font size for smaller screens */
+        /* Add any other necessary adjustments */
+    }
+    .content {
+        width: 80%; /* Adjust width for smaller screens */
+    }
+
+    .title {
+        width: 80%; /* Adjust width for smaller screens */
+    }
+}
