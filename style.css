@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    font-family:  Roboto;
+}
+
+h1{
+    color: white;
+    font-size: 3.5em;
+    margin: 0.5em;
+    text-align: center;
+    font-family: Josefin Sans;
+}
+
+h2{
+    color: white;
+    border-bottom: 1px solid;
+    display: inline;
+}
+
+#writer{
+    margin: 0.8em;
+    opacity: 20%;
+}
+
+.title{
+    display: block;
+    border-bottom: 1px solid white;
+    margin: auto;
+    width: 30%;
+}
+
+.content{
+    overflow-wrap: break-word;
+    text-align: center;
+    margin: 0 auto;
+    width: 40%;
+
+}
+
+.content img{
+    width: 100%;
+}
+
+p{
+    color: white;
+    font-size: 1.5em;
+}
+
+#chatgpt{
+    opacity: 30%;
+    font-style: italic;
+    font-size: 1em;
+}
+
+footer{
+    background-color: white;
+}
